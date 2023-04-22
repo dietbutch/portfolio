@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <title>Nico Dinisi Media</title>
+    </header>
+    <body>
+        <header>
+            <h1>About Me</h1>
+            <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://lh3.googleusercontent.com/8NYH27F3biNcL3jsA4H98i5x4mkt1PUVeTWC76RTbrpzJVAdRaR0nhrRzoqtfmJ6x-wR1AaDmC97xCRDifgjHhurjocnjN9fzo0rg51Na6DH-6w-4FAIBD5YSerFXFw9h-ZK3hrZ8AaQ8PlSCuBFgPjvs8Nb-VOuVJBCqXitZO2ZZSzieStq56dzo3hQa79hplmtqcFIsLq85cotrvTAmdZsl9zySFS1WwmpZZ5Gk_7tCFprX6BkFNlK-IrGbTbKiIH7__8ngHwLNh5amVoiBt1Eh3CF4sDWzYA7rRyZEs0sNVfC3G9uGdTgm78EeMQNwo38E7bA4V1ykYENBt8oy9JO8dtEOV5kR3hyc43cJdulItfF_u1EG-wfU-O-mjuuuQmBQkwG4g97i6i4Z5Bmx3egqedecbqNK0JaahGI7XImNByYR-8Z-6h3CxgFQlQQxjvnMvz6O1WHUgCXKhSDY6F-oXPS79TN93P8mANiE9yUhva1UTFCg3OpIXHq6F9TeJT-PbKm417xT3SjAR5PcTBgHcQT4-tiKAdrsgr0DTNwl7MoShIDNnyBk8fLYJKr-BRjzsEsndOpzLzmzpzoDDIcLX3D-_tlJx9oXapAitbdAPFw7yuGKExMW6HXcGGugApsoYSBCz_9qMZwxxUReN_cADkSXzKSUGkkkO3vUCeXk-yFMHVwF6luQqVi47Qb3nj2M70Pk_LqY6gudxsHvSeJKDgpOzavyGhwBqZDhtHbdMjglvlkfO6i4BavXoe0I0zrfQ8vULKm8pvUcSqttTdSp0HaNXDfWbJ2QbnGP5I41Fk3flLHU_qDPDKEEIXr4FKAagGo4kb9A3dMQkBIP9_2p65g8jlPx-UD2omEh9QVDskB0AXv0mwRX-PAUYQz4f6cPxjLU8GYFgVcu3sUxJ8EQGR90uBo7Iu0pcsQOnUCiOsuo__FWwL9Nm5CosUjmcZuwqy63JRUpydYcw=w1128-h1386-s-no?authuser=0" width="421" height="517" alt="Nico Dinisi wearing lingerie and flexing on stage at The Comedy Store" />
+        </header>
+        <p>Hello, my name is Nico. I'm a comedian, filmmaker and web developer.</p>
+    </body>
+    <footer>date</footer>
+</html>
